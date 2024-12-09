@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # learn-vue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Learning--Vue
+This is my first website which i have created using the vue.
+>>>>>>> 57bcb38adf29a027e0045bcddd7c1e331ee12936
