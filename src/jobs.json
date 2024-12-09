@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "1dd2",
+      "title": "GoogleHeadQuarters",
+      "type": "Internship",
+      "location": "Hyderabad",
+      "description": "Google Frontend Engineer of new Product",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Google",
+        "description": "Everyone knows about Google",
+        "contactEmail": "JohnDoe@gmai.com",
+        "contactPhone": "123123-122"
+      }
     }
   ]
 }
